@@ -386,8 +386,8 @@
         "SLUG": {
           "LABEL": "Slug",
           "PLACEHOLDER": "Slug da categoria para URLs",
-          "HELP_TEXT": "app.chatwoot.com/hc/meu-portal/pt-BR/categorias/meu-slug",
-          "ERROR": "Slug é obrigatório"
+          "HELP_TEXT": "app.whapy.com.br/hc/meu-portal/pt-BR/categorias/meu-slug",
+          "ERROR": "um Slug é obrigatório"
         },
         "DESCRIPTION": {
           "LABEL": "Descrição",
@@ -417,7 +417,7 @@
         "SLUG": {
           "LABEL": "Slug",
           "PLACEHOLDER": "Slug da categoria para URLs",
-          "HELP_TEXT": "app.chatwoot.com/hc/meu-portal/pt-BR/categorias/meu-slug",
+          "HELP_TEXT": "app.whapy.com.br/hc/meu-portal/pt-BR/categorias/meu-slug",
           "ERROR": "Slug é obrigatório"
         },
         "DESCRIPTION": {
@@ -478,11 +478,11 @@
           "DESCRIPTION": "Personalize suas meta tags para melhorar sua visibilidade nos motores de busca com nossas páginas amigáveis para SEO."
         },
         "API": {
-          "TITLE": "Suporte completo para API",
-          "DESCRIPTION": "Use o portal como um CMS sem cabeça com frameworks front-end de terceiros usando nossas APIs."
+          "TITLE": "Suporte para APIs",
+          "DESCRIPTION": "Use o portal como um CMS ou frameworks front-end de terceiros usando APIs."
         }
       }
     },
-    "LOADING": "Loading..."
+    "LOADING": "Carregando..."
   }
 }

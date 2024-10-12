@@ -1,21 +1,25 @@
 {
   "AUDIT_LOGS": {
-    "HEADER": "Audit Logs",
+    "HEADER": "Logs de Auditoria",
     "HEADER_BTN_TXT": "Add Audit Logs",
     "LOADING": "Fetching Audit Logs",
-    "DESCRIPTION": "Os Logs de Auditoria mantêm um registro das atividades em sua conta, permitindo que você rastreie e audite sua conta, equipe ou serviços.",
+    "DESCRIPTION": "Os Logs de Auditoria mantêm um registro das atividades em sua conta, permitindo que você rastreie e realize auditoria em sua conta, equipe ou serviços.",
     "LEARN_MORE": "Saiba mais sobre logs de auditoria",
     "SEARCH_404": "Não há itens correspondentes a esta consulta",
-    "SIDEBAR_TXT": "<p><b>Logs de Auditoria</b> </p><p> Os Logs de Auditoria são trilhas para eventos e ações em um Sistema Chatwoot. </p>",
+    "SIDEBAR_TXT": "<p><b>Logs de Auditoria</b> </p><p> Os Logs de Auditoria são trilhas para eventos e ações. </p>",
     "LIST": {
       "404": "Não há Logs de Auditoria disponíveis nesta conta.",
       "TITLE": "Gerenciar Logs de Auditoria",
-      "DESC": "Os Logs de Auditoria são trilhas para eventos e ações em um Sistema Chatwoot.",
-      "TABLE_HEADER": ["Activity", "Time", "IP Address"]
+      "DESC": "Os Logs de Auditoria são trilhas para eventos e ações em um .",
+      "TABLE_HEADER": [
+        "Atividade",
+        "Temp",
+        "Endereço IP"
+      ]
     },
     "API": {
-      "SUCCESS_MESSAGE": "AuditLogs retrieved successfully",
-      "ERROR_MESSAGE": "Could not connect to Woot Server, Please try again later"
+      "SUCCESS_MESSAGE": "Logs de Auditoria recuperados com sucesso",
+      "ERROR_MESSAGE": "Não foi possível conectar-se ao servidor. Tente novamente mais tarde"
     },
     "DEFAULT_USER": "System",
     "AUTOMATION_RULE": {

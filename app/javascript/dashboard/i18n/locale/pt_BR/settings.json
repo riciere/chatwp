@@ -316,13 +316,13 @@
     "NO_BILLING_USER": "Sua conta de faturamento está sendo configurada. Por favor, atualize a página e tente novamente."
   },
   "CREATE_ACCOUNT": {
-    "NO_ACCOUNT_WARNING": "Oh não! Não conseguimos encontrar nenhuma conta Chatwoot. Por favor, crie uma nova conta para continuar.",
+    "NO_ACCOUNT_WARNING": "Infelizmente não conseguimos encontrar nenhuma conta Whapy. Por favor, crie uma nova conta para continuar.",
     "NEW_ACCOUNT": "Nova Conta",
     "SELECTOR_SUBTITLE": "Crie uma nova conta",
     "API": {
       "SUCCESS_MESSAGE": "Conta criada com sucesso",
       "EXIST_MESSAGE": "Conta já existe",
-      "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor tente novamente mais tarde"
+      "ERROR_MESSAGE": "Não foi possível conectar ao servidor, por favor tente novamente mais tarde"
     },
     "FORM": {
       "NAME": {
